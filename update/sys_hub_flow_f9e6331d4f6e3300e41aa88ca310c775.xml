@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from>de402bd94f2e3300e41aa88ca310c7e9</copied_from>
+        <copied_from_name>Action Test Flow</copied_from_name>
+        <description>Flow to test custom action.</description>
+        <internal_name>need_it_flow_property_up</internal_name>
+        <label_cache>[{"name":"c34e5b11-f375-41d2-8638-fd03427dfa8b.property_value","label":"1➛Property value","type":"string","base_type":"string"},{"name":"1805f700-3a7b-4458-9c6d-4f74de2bcfdb.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"1805f700-3a7b-4458-9c6d-4f74de2bcfdb.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"4272c5b5-1f06-4518-a55d-cde8df68f3c5.Record","label":"2➛NeedIt Record","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"reference","base_type":"reference"},{"name":"4272c5b5-1f06-4518-a55d-cde8df68f3c5.Table","label":"2➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"table_name","base_type":"table_name"},{"name":"21347328-cc0a-449e-92d8-f2a8b3d178a1.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"21347328-cc0a-449e-92d8-f2a8b3d178a1.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Need It Flow Property Up</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 12:35:24</sys_created_on>
+        <sys_id>f9e6331d4f6e3300e41aa88ca310c775</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Need It Flow Property Up</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_f9e6331d4f6e3300e41aa88ca310c775</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 12:39:04</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=f9e6331d4f6e3300e41aa88ca310c775"/>
+    <sys_variable_value action="delete_multiple" query="document_key=f9e6331d4f6e3300e41aa88ca310c775"/>
+</record_update>
